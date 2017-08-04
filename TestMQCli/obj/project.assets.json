@@ -9108,10 +9108,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ExpressBase\\ExpressBaseMQ\\TestMQ\\TestMQCli\\TestMQCli.csproj",
+      "projectUniqueName": "F:\\ExpressBase\\GitHub\\TestMQ\\TestMQCli\\TestMQCli.csproj",
       "projectName": "TestMQCli",
-      "projectPath": "F:\\ExpressBase\\ExpressBaseMQ\\TestMQ\\TestMQCli\\TestMQCli.csproj",
-      "outputPath": "F:\\ExpressBase\\ExpressBaseMQ\\TestMQ\\TestMQCli\\obj\\",
+      "projectPath": "F:\\ExpressBase\\GitHub\\TestMQ\\TestMQCli\\TestMQCli.csproj",
+      "outputPath": "F:\\ExpressBase\\GitHub\\TestMQ\\TestMQCli\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
