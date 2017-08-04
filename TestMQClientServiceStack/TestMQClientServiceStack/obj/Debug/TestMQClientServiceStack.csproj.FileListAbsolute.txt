@@ -1,0 +1,1 @@
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQClientServiceStack\TestMQClientServiceStack\obj\Debug\TestMQClientServiceStack.csprojResolveAssemblyReference.cache

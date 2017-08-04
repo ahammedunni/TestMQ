@@ -1,0 +1,9 @@
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQCli\bin\Debug\netcoreapp1.1\TestMQCli.deps.json
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQCli\bin\Debug\netcoreapp1.1\TestMQCli.runtimeconfig.json
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQCli\bin\Debug\netcoreapp1.1\TestMQCli.runtimeconfig.dev.json
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQCli\bin\Debug\netcoreapp1.1\TestMQCli.dll
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQCli\bin\Debug\netcoreapp1.1\TestMQCli.pdb
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQCli\obj\Debug\netcoreapp1.1\TestMQCli.AssemblyInfo.cs
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQCli\obj\Debug\netcoreapp1.1\TestMQCli.dll
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQCli\obj\Debug\netcoreapp1.1\TestMQCli.pdb
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQCli\obj\Debug\netcoreapp1.1\TestMQCli.csprojResolveAssemblyReference.cache

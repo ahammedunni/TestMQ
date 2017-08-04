@@ -1,0 +1,6 @@
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQClientServiceStack\TestMQClientServiceStack.ServiceModel\bin\Debug\TestMQClientServiceStack.ServiceModel.dll
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQClientServiceStack\TestMQClientServiceStack.ServiceModel\bin\Debug\TestMQClientServiceStack.ServiceModel.pdb
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQClientServiceStack\TestMQClientServiceStack.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQClientServiceStack\TestMQClientServiceStack.ServiceModel\bin\Debug\ServiceStack.Interfaces.xml
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQClientServiceStack\TestMQClientServiceStack.ServiceModel\obj\Debug\TestMQClientServiceStack.ServiceModel.dll
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQClientServiceStack\TestMQClientServiceStack.ServiceModel\obj\Debug\TestMQClientServiceStack.ServiceModel.pdb

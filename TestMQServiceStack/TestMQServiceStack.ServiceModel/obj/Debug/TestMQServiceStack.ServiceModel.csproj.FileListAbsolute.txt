@@ -1,0 +1,7 @@
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQServiceStack\TestMQServiceStack.ServiceModel\bin\Debug\TestMQServiceStack.ServiceModel.dll
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQServiceStack\TestMQServiceStack.ServiceModel\bin\Debug\TestMQServiceStack.ServiceModel.pdb
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQServiceStack\TestMQServiceStack.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQServiceStack\TestMQServiceStack.ServiceModel\bin\Debug\ServiceStack.Interfaces.xml
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQServiceStack\TestMQServiceStack.ServiceModel\obj\Debug\TestMQServiceStack.ServiceModel.dll
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQServiceStack\TestMQServiceStack.ServiceModel\obj\Debug\TestMQServiceStack.ServiceModel.pdb
+F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQServiceStack\TestMQServiceStack.ServiceModel\obj\Debug\TestMQServiceStack.ServiceModel.csprojResolveAssemblyReference.cache
