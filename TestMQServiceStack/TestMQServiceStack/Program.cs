@@ -7,19 +7,9 @@ using TestMqShared;
 
 namespace TestMq
 {
-    //Server
-    //public class HelloService : Service
-    //{
-    //    public object Any(EmailReq req)
-    //    {
-    //        EmailService mailreq = new EmailService();
-    //        return new EmailRes { Name = "Hello, " + req.Name };
-    //    }
-    //}
-
     public class ServerAppHost : AppHostHttpListenerBase
     {
-        public ServerAppHost() : base("Test Server", typeof(ServerAppHost).Assembly){}
+        public ServerAppHost() : base("Test Server", typeof(MainClass).Assembly){}
 
 
         public override void Configure(Container container)
@@ -37,7 +27,7 @@ namespace TestMq
             //Listens for 'Hello' messages sent with: mqClient.Publish(new Hello { ... })
 
             mqHost.RegisterHandler<Hello>(base.ExecuteMessage);
-            mqHost.RegisterHandler<EmailReq>(base.ExecuteMessage);
+            mqHost.RegisterHandler<EmailRequest>(base.ExecuteMessage);
             mqHost.Start(); //Starts listening for messages
         }
     }
@@ -54,6 +44,7 @@ namespace TestMq
             serverAppHost.Start("http://localhost:1400/");
             Console.WriteLine("Server running.  Press enter to terminate...");
             //Prevent server from exiting (when running in ConsoleApp)
+
             Console.ReadLine();
         }
     }

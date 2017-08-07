@@ -12,17 +12,17 @@ namespace TestMQServiceStack
             {
                 HelloResponse res = new HelloResponse();
                 res.Result = req.Name + "  Success";
-                if (req.Name.Contains("a= 5"))
-                    throw new Exception();
+                if (req.Name.Contains("a= 2   b= 2"))
+                    throw new Exception("Manually Generated Error to Test Error Handler created at a= 5   b= 5");
                 Console.WriteLine(res.Result);
                 return res;
             }
             catch(Exception E)
             {
-                HelloError res = new HelloError();
-                res.Result = E.ToJson();
-                Console.WriteLine(res.Result);
-                return res;
+                HelloError Error = new HelloError();
+                Error.Result = E.ToJson();
+                Console.WriteLine(Error.Result);
+                return Error;
             }
 
         }

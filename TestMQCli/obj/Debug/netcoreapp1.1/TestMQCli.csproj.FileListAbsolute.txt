@@ -7,3 +7,12 @@ F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQCli\obj\Debug\netcoreapp1.1\TestMQCli.
 F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQCli\obj\Debug\netcoreapp1.1\TestMQCli.dll
 F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQCli\obj\Debug\netcoreapp1.1\TestMQCli.pdb
 F:\ExpressBase\ExpressBaseMQ\TestMQ\TestMQCli\obj\Debug\netcoreapp1.1\TestMQCli.csprojResolveAssemblyReference.cache
+F:\ExpressBase\GitHub\TestMQ\TestMQCli\bin\Debug\netcoreapp1.1\TestMQCli.deps.json
+F:\ExpressBase\GitHub\TestMQ\TestMQCli\bin\Debug\netcoreapp1.1\TestMQCli.runtimeconfig.json
+F:\ExpressBase\GitHub\TestMQ\TestMQCli\bin\Debug\netcoreapp1.1\TestMQCli.runtimeconfig.dev.json
+F:\ExpressBase\GitHub\TestMQ\TestMQCli\bin\Debug\netcoreapp1.1\TestMQCli.dll
+F:\ExpressBase\GitHub\TestMQ\TestMQCli\bin\Debug\netcoreapp1.1\TestMQCli.pdb
+F:\ExpressBase\GitHub\TestMQ\TestMQCli\obj\Debug\netcoreapp1.1\TestMQCli.csprojResolveAssemblyReference.cache
+F:\ExpressBase\GitHub\TestMQ\TestMQCli\obj\Debug\netcoreapp1.1\TestMQCli.AssemblyInfo.cs
+F:\ExpressBase\GitHub\TestMQ\TestMQCli\obj\Debug\netcoreapp1.1\TestMQCli.dll
+F:\ExpressBase\GitHub\TestMQ\TestMQCli\obj\Debug\netcoreapp1.1\TestMQCli.pdb
